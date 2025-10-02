@@ -25,7 +25,7 @@ Upgrade anytime: Framework → Standard → Premium.
 ---
 
 ## 💬 Upgrade to Standard and join the community
-- 💡 [Discussions](https://github.com/orgs/SaaStacked/saastack-standard/discussions) — ask questions, share ideas  
+- 💡 [Discussions](https://github.com/SaaStacked/saastack-standard/discussions) — ask questions, share ideas  
 - 🐞 [Issues](https://github.com/SaaStacked/.github/issues/new/choose) — bug reports & feature requests  
 - 📢 [Announcements](https://github.com/orgs/SaaStacked/discussions/categories/announcements) — keep up with releases  
 
