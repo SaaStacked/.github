@@ -10,8 +10,8 @@ Pick the right starting point for your journey 👇
 | Plan       | What you get | What you can do | Best for | Start here |
 |------------|--------------|----------|------------|------------|
 | **Basic** (Free) | Full .NET SaaS product codebase | Run, test, and develop locally | Getting Started | [⚡ Use Template](https://github.com/SaaStacked/saastack) |
-| **Standard** ($1,000) | Basic **+ Technical Adapters** (Databases, Queue, Blobs, Buses, APM, FeatureFlags, Email, SMS, avatars, etc) and Tooling. Deploy to the Cloud | Getting to Market | [⚡ Use Template](https://github.com/SaaStacked/saastack-standard) |
-| **Premium** ($5,000) | Standard **+ Premium Adapters** (Billing, Product Metrics, SSO/Auth, etc). Scaling the Business | Scaling-up | [⚡ Use Template](https://github.com/SaaStacked/saastack-premium) |
+| **Standard** ($1,000) | Basic **+ Technical Adapters** (Databases, Queue, Blobs, Buses, APM, FeatureFlags, Email, SMS, avatars, etc) and Tooling | Deploy to the Cloud | Getting to Market | [⚡ Use Template](https://github.com/SaaStacked/saastack-standard) |
+| **Premium** ($5,000) | Standard **+ Premium Adapters** (Billing, Product Metrics, SSO/Auth, etc) | Scale Revenue & Growth | Scaling the Business | [⚡ Use Template](https://github.com/SaaStacked/saastack-premium) |
 
 ---
 
