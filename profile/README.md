@@ -9,9 +9,9 @@ Pick the right starting point for your journey 👇
 
 | Plan       | What you get | Best for | Start here |
 |------------|--------------|----------|------------|
-| **Basic** (Free) | Full .NET SaaS product codebase. Run, test, and develop locally | Getting going | [⚡ Use Template](https://github.com/SaaStacked/saastack) |
-| **Standard** ($1,000) | Basic **+ Technical Adapters** (Databases, Queue, Blobs, Buses, APM, FeatureFlags, Email, SMS, avatars, etc) and Tooling. Deploy to the Cloud | Teams shipping V1 | [⚡ Use Template](https://github.com/SaaStacked/saastack-standard) |
-| **Premium** ($5,000) | Standard **+ Premium Adapters** (Billing, Product Metrics, SSO/Auth, etc). Scale the business | Scale-ups | [⚡ Use Template](https://github.com/SaaStacked/saastack-premium) |
+| **Basic** (Free) | Full .NET SaaS product codebase. Run, test, and develop locally | Evaluate | [⚡ Use Template](https://github.com/SaaStacked/saastack) |
+| **Standard** ($1,000) | Basic **+ Technical Adapters** (Databases, Queue, Blobs, Buses, APM, FeatureFlags, Email, SMS, avatars, etc) and Tooling. Deploy to the Cloud | Ship V1 | [⚡ Use Template](https://github.com/SaaStacked/saastack-standard) |
+| **Premium** ($5,000) | Standard **+ Premium Adapters** (Billing, Product Metrics, SSO/Auth, etc). Scale the business | Scale-up | [⚡ Use Template](https://github.com/SaaStacked/saastack-premium) |
 
 ---
 
