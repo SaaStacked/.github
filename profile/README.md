@@ -6,6 +6,15 @@ Pick the right starting point for your journey 👇
 
 ---
 
+## 🧠 Evaluate
+
+1. Evaluate the open-source code and documentation: https://github.com/SaaStacked/saastack
+2. See it deployed in Azure (LoopCar is an example SaaS product)
+  * Frontend Web App: https://loopcar-websitehost.azurewebsites.net/
+  * Backend API: https://loopcar-apihost1.azurewebsites.net/
+
+---
+
 ## 📦 Choose your starting point
 
 | Plan       | What you get | What you can do | Best for | Start here |
@@ -16,10 +25,11 @@ Pick the right starting point for your journey 👇
 
 ---
 
-## 🛠️ How to upgrade
-1. **Clone** the open source repository
-2. **Purchase** (once-off) either Standard or Premium to become a member
-3. **Install** Standard or Premium assets (adapters, developer tooling, additional docs, deployment scripts, etc)  
-4. **Deploy** to your chosen Cloud provider (Azure or AWS)
+## 🛠️ Upgrade when you are ready
+1. **Clone** the open source repository `git clone https://github.com/SaaStacked/saastack`
+2. [**Purchase**](https://www.SaaStacked.com) (once-off) either Standard or Premium, and become a SaaStack member
+3. **Install Standard or Premium assets** (adapters, developer tooling, additional docs, deployment scripts, etc)
+4. **Start Building** your chosen product
+5. **Deploy** to your chosen Cloud provider (Azure or AWS)
 
 Upgrade anytime: Basic → Standard → Premium.
